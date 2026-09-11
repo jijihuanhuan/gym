@@ -1,0 +1,16 @@
+{
+  "name": "训练记录",
+  "short_name": "训练记录",
+  "description": "离线训练记录应用：训练计划、动作跟练、计时与历史记录",
+  "lang": "zh-CN",
+  "start_url": "./训练记录应用_离线版.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#121214",
+  "theme_color": "#121214",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
